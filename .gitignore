@@ -1,4 +1,4 @@
 venv
-migration
+migrations
 .pytest_cache
-db.sqlite3
+fit_track/db.sqlite3
